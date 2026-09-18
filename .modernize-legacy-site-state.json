@@ -5,7 +5,7 @@
   "supportingSourceUrl": "https://yandex.ru/maps/org/lyubi/114859093487/",
   "openingClassification": "profile site",
   "projectPath": "/Users/aizat/Documents/Projects/RestoredOldSites/lyubi-modern",
-  "phase": "LOCAL_QA",
+  "phase": "LIVE_VERIFIED",
   "source": {
     "language": "ru",
     "businessName": "Люби",
@@ -16,5 +16,5 @@
   "routes": [{"path":"/","stage":1,"status":"implemented"}],
   "assets": [{"role":"Logo","status":"used","path":"public/media/logo.jpg"},{"role":"Primary photo","status":"used","path":"public/media/hero.jpg"}],
   "local": {"buildPassed": true, "previewUrl": "http://127.0.0.1:4173/", "qa": {"viewports": ["320x844", "390x844", "768x1024", "1440x900"], "horizontalOverflow": false, "anchorsVerified": true, "previewVerified": true}},
-  "publication": {"approved": false}
+  "publication": {"approved": true, "repositoryUrl": "https://github.com/ComPanS/lyubi-modern", "liveUrl": "https://compans.github.io/lyubi-modern/", "workflowStatus": "success"}
 }
